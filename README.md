@@ -1,51 +1,14 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
-
-</div>
-
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=PedroSantosD&color=3b82f6&style=flat)
 
 </div>
 
 # 💫 About Me
 
-```yaml
-name: Pedro Cesar
-role: Full Stack Developer Junior
-
-main_stack:
-  - Java
-  - Spring Boot
-  - JavaScript
-
-backend:
-  - APIs REST
-  - MySQL
-  - SQL
-
-frontend:
-  - HTML
-  - CSS
-  - JavaScript
-
-currently_learning:
-  - Estrutura de Dados
-  - Arquitetura Backend
-  - Spring Security
-```
-
----
-
-# ⚡ Tech Stack
 <div align="center">
 
-![](https://img.shields.io/badge/Focus-Java-1E3A8A)
-![](https://img.shields.io/badge/Backend-SpringBoot-111827)
-![](https://img.shields.io/badge/Frontend-JavaScript-2563EB)
-![](https://img.shields.io/badge/Database-MySQL-0F172A)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Developer;Spring+Boot+Developer;Frontend+with+JavaScript" />
 
 </div>
 
@@ -53,9 +16,37 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,javascript,html,css,mysql,git,github,vscode,idea&theme=dark" />
+```txt
+💻 Full Stack Developer Junior
+☕ Main Focus: Java & Spring Boot
+🌐 Frontend with JavaScript
+🗄️ MySQL & REST APIs
+🚀 Always learning new technologies
+```
 
 </div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,javascript,html,css,mysql,git,github,vscode,idea&theme=dark" />
+
+<br><br>
+
+![](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=3B82F6)
+![](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=spring&logoColor=3B82F6)
+![](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=3B82F6)
+![](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=3B82F6)
+
+</div>
+
+<br>
+
+<div align="center">
+
 
 ---
 
@@ -90,22 +81,19 @@ currently_learning:
 ---
 
 # 🌌 Connect With Me
----
-
-# 🌌 Connect With Me
 
 <div align="center">
 
 <a href="SEU_LINK_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/>
 </a>
 
 <a href="https://www.instagram.com/pedrosntz._/">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=3B82F6"/>
 </a>
 
-<a href="SEU_LINK_GMAIL">
-<img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:SEUGMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=3B82F6"/>
 </a>
 
 </div>
@@ -121,8 +109,10 @@ currently_learning:
 🚀 Spring Boot APIs
 🌐 Full Stack Development
 🗄️ Database Modeling
-⚡ Clean Code
+⚡ Clean Architecture
 ```
+
+</div>
 
 </div>
 
