@@ -1,7 +1,36 @@
 <div align="center">
+
+<img src="https://media1.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=PedroSantosD&color=3b82f6&style=flat)
+
+</div>
+
+# 💫 About Me
+
+```yaml
+name: Pedro Cesar
+role: Full Stack Developer Junior
+
+main_stack:
+  - Java
+  - Spring Boot
+  - JavaScript
+
+backend:
+  - APIs REST
+  - MySQL
+  - SQL
+
+frontend:
   - HTML
   - CSS
   - JavaScript
+
 currently_learning:
   - Estrutura de Dados
   - Arquitetura Backend
@@ -11,6 +40,16 @@ currently_learning:
 ---
 
 # ⚡ Tech Stack
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Java-1E3A8A)
+![](https://img.shields.io/badge/Backend-SpringBoot-111827)
+![](https://img.shields.io/badge/Frontend-JavaScript-2563EB)
+![](https://img.shields.io/badge/Database-MySQL-0F172A)
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -30,6 +69,27 @@ currently_learning:
 
 </div>
 
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PedroSantosD&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSantosD&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🌌 Connect With Me
 ---
 
 # 🌌 Connect With Me
