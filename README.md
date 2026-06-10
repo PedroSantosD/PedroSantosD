@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=3B82F6"/>
 </a>
 
-<a href="mailto:SEUGMAIL@gmail.com">
+<a href="mailto:pedrosantosdev07@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=3B82F6"/>
 </a>
 
